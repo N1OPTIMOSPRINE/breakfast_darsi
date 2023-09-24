@@ -53,13 +53,13 @@ header  {
   ul li a {
     padding: 20px;
     text-decoration: none; 
-    color: rgb(33, 255, 255);
+    color: rgb(0, 255, 255);
 
 }
    
     ul li a:hover,
     ul li a div{
-    color: #ff1e00;
+    color: #f3371e;
     margin: 30px;
     transition: 1s;
     font-family: sans-serif;
